@@ -1,0 +1,43 @@
+Child
+AA-GUID
+
+Name:
+Middle Name:
+Surname:
+
+DOB:
+Sex:
+Age:
+Hair Colour:
+Eye Colour:
+Height:
+Weight:
+
+ISO8601 DATE/TIME Reported
+ISO8601 DATE/TIME Assumed Missing
+ISO8601 DATE/TIME Publication
+
+Case Type (Endangered Missing, Endangered Runaway, Family Abduction, Hague Case, (Lost, Injured, Missing), Missing, Non Family Abduction, Unidentified, Unknown)
+
+photo a / TYPE / age(week/month/year)
+publication slide / TYPE / AUTO
+
+Home Location: Latitude/Longtitude
+Missing From Location: Latitude/Longtitude
+Possible Location: {Country, Province/State}
+Last Seen: ISO8601 DT - Latitude/Longtitude
+
+Abductor
+AB-GUID
+Name:
+Middle Name:
+Surname:
+DOB:
+Sex:
+Age:
+Hair Colour:
+Eye Colour:
+Height:
+Weight:
+Possible Location: {Country, Province/State}
+Last Seen: ISO8601 DT - Latitude/Longtitude

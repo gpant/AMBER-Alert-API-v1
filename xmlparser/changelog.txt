@@ -1,0 +1,10 @@
+v0.1.20130607
+Changed all filenames to variables
+parser now uses first arg ($1) for the file paths (used for cron)
+now safe to crontab for 1 min updates
+
+v0.1.20130605
+use of curl and made sure we do head before we fetch
+
+v0.1.20130601
+wget RSS Feed and use xmlstarlet to -> csv

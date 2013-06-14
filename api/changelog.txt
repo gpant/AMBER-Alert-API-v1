@@ -1,0 +1,42 @@
+v0.1.20130607
+latest received 2 more fields, pub date and remote image
+/country/contact added it will give out general info on no country or contact
+AA-DB created (mysql)
+DB connector meekrodb used
+db.php include on all code requiring connection to DB
+added db calls for /country/contact/
+added db calls for /data/summary/ & /data/countries
+major change to path from v1.0 to v1 to make it easier to move to restler v3
+
+v0.1.20130606
+new Supported Formats: .json, .xml, .yaml, .plist, .amf
+{ID} moved from tag to value under id
+all requests now provide valid xml output
+added future support for restler v3
+fixed compats with new rest framework
+added id to /all
+
+v0.1.20130605
+new:
+EU Country lookup
+latest call now has the country
+
+fixes:
+names call returns proper json
+all call returns proper json
+moved children object under the data namespace
+null id issue in names call
+
+
+v0.1.20130604
+some work on supporting the restler versioning
+aditional calls for data
+parser now can create any output requested from feed
+new all call added
+
+v0.1.20130603
+xmlparser fetches rss and makes a name only file
+initial api calls on children namespace
+
+v0.1.20130601
+Initial commit

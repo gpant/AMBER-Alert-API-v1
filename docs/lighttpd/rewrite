@@ -1,0 +1,3 @@
+url.rewrite-once = (
+    "^/api/v1.0"  => "/api/v1.0/index.php/$0"
+    )
